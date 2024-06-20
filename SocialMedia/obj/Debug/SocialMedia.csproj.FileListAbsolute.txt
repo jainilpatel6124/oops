@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Oops\SocialMedia\bin\Debug\SocialMedia.exe.config
+C:\Users\DELL\Desktop\Oops\SocialMedia\bin\Debug\SocialMedia.exe
+C:\Users\DELL\Desktop\Oops\SocialMedia\bin\Debug\SocialMedia.pdb
+C:\Users\DELL\Desktop\Oops\SocialMedia\obj\Debug\SocialMedia.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Oops\SocialMedia\obj\Debug\SocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Oops\SocialMedia\obj\Debug\SocialMedia.exe
+C:\Users\DELL\Desktop\Oops\SocialMedia\obj\Debug\SocialMedia.pdb

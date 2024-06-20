@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Oops\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\DELL\Desktop\Oops\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\DELL\Desktop\Oops\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\DELL\Desktop\Oops\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Oops\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Oops\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\DELL\Desktop\Oops\Restaurant\obj\Debug\Restaurant.pdb
