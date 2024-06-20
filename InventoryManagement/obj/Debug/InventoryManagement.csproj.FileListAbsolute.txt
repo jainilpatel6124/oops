@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Oops\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\DELL\Desktop\Oops\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\DELL\Desktop\Oops\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\DELL\Desktop\Oops\InventoryManagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Oops\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Oops\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\DELL\Desktop\Oops\InventoryManagement\obj\Debug\InventoryManagement.pdb
